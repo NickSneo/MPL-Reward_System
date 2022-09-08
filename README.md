@@ -25,6 +25,8 @@ This project is under license from MIT. For more details, see the [LICENSE](./LI
 
 ## Demo Video ##
 
+https://user-images.githubusercontent.com/32759145/189132021-0116bb08-a8c6-4824-add2-cf32330beff2.mp4
+
 
 
  Author's Contact - [Nischal Sharma](mailto:17ucc040@lnmiit.ac.in)
