@@ -23,6 +23,11 @@ Implemented a Reward System Smart Contract for MPL with daily max reward lock.
 
 This project is under license from MIT. For more details, see the [LICENSE](./LICENSE.md) file.
 
+## Demo Video ##
+
+Check the video
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](./MPL-demo.mp4)
+
 
  Author's Contact - [Nischal Sharma](mailto:17ucc040@lnmiit.ac.in)
 
